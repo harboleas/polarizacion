@@ -40,8 +40,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.4960411"
-     inkscape:cx="82.981652"
-     inkscape:cy="939.09938"
+     inkscape:cx="-130.56029"
+     inkscape:cy="173.61667"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -53,6 +53,96 @@
      inkscape:snap-grids="true" />
   <defs
      id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker1401"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleStart"
+       markerWidth="4.3249998"
+       markerHeight="5"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1399" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1391"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleStart"
+       markerWidth="4.3249998"
+       markerHeight="5"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1389" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1381"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleStart"
+       markerWidth="4.3249998"
+       markerHeight="5"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1379" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1365"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleStart"
+       markerWidth="4.3249998"
+       markerHeight="5"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1363" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1349"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleStart"
+       markerWidth="4.3249998"
+       markerHeight="5"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1347" />
+    </marker>
     <marker
        style="overflow:visible"
        id="marker4861"
@@ -383,7 +473,7 @@
        inkscape:collect="always">
       <path
          transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path1525" />
     </marker>
@@ -402,7 +492,7 @@
        preserveAspectRatio="xMidYMid">
       <path
          transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135" />
     </marker>
@@ -421,7 +511,7 @@
        preserveAspectRatio="xMidYMid">
       <path
          transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path1579-1" />
     </marker>
@@ -963,7 +1053,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.256;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.256;stroke-dasharray:none;stroke-opacity:1;stroke-miterlimit:4"
        id="rect2618"
        width="116.52574"
        height="84.964836"
@@ -980,25 +1070,34 @@
        rx="35.085381"
        ry="22.359594"
        transform="rotate(-32.421652)"
-       inkscape:export-filename="polariz_in.png"
+       inkscape:export-filename="polarizacion_in.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.260888;stroke-opacity:1;marker-start:url(#marker1581);marker-end:url(#marker1581)"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.260888;stroke-opacity:1;marker-start:url(#marker1349);marker-end:url(#marker1365)"
        d="M -7.645574,44.713819 H 95.456175"
        id="path1161"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleStart);marker-end:url(#marker1527)"
        d="M 45.354425,5.579312 V 85.630029"
        id="path1163"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#ffffff;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        x="93.556145"
        y="48.527721"
-       id="text1745"><tspan
+       id="text1745"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1743"
          style="stroke-width:0.265;stroke-dasharray:none"
@@ -1009,26 +1108,38 @@
        style="font-size:3.175px;fill:#ffffff;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        x="41.162735"
        y="8.4696827"
-       id="text1745-3"><tspan
+       id="text1745-3"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1743-6"
          style="stroke-width:0.265;stroke-dasharray:none"
          x="41.162735"
          y="8.4696827">y</tspan></text>
     <path
-       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.256312;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1581)"
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.256312;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1381)"
        d="m 45.393495,44.769964 26.5314,-20.702452"
-       id="path1938" />
+       id="path1938"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
-       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.249748;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1581)"
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:0.249748;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1391)"
        d="M 45.394495,44.948962 31.495386,28.381162"
-       id="path1938-3" />
+       id="path1938-3"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#ffffff;stroke:#000000;stroke-width:0.256;stroke-dasharray:none;stroke-opacity:1"
        x="32.495682"
        y="37.487423"
-       id="text2535"><tspan
+       id="text2535"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan2533"
          style="stroke-width:0.256"
@@ -1039,7 +1150,10 @@
        style="font-size:3.175px;fill:#ffffff;stroke:#000000;stroke-width:0.256;stroke-dasharray:none;stroke-opacity:1"
        x="56.113365"
        y="33.770069"
-       id="text2535-6"><tspan
+       id="text2535-6"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan2533-3"
          style="stroke-width:0.256"
@@ -1050,7 +1164,10 @@
        style="font-size:3.175px;fill:#ffffff;stroke:#000000;stroke-width:0.256;stroke-dasharray:none;stroke-opacity:1"
        x="54.155647"
        y="42.322979"
-       id="text2546"><tspan
+       id="text2546"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan2548"
          x="54.155647"
@@ -1058,7 +1175,10 @@
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.256;stroke-dasharray:none;stroke-opacity:1"
        d="M 72.386745,23.360302 31.087096,27.658818"
-       id="path2623" />
+       id="path2623"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.256;stroke-dasharray:none;stroke-opacity:1"
        id="path2625"
@@ -1071,7 +1191,10 @@
        sodipodi:end="3.0322079"
        sodipodi:arc-type="arc"
        sodipodi:open="true"
-       d="M 67.703335,27.262952 A 6.149457,5.8395324 0 0 1 66.095357,23.925328" />
+       d="M 67.703335,27.262952 A 6.149457,5.8395324 0 0 1 66.095357,23.925328"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.256;stroke-dasharray:none;stroke-opacity:1"
        id="path2631"
@@ -1084,37 +1207,38 @@
        sodipodi:end="6.2671231"
        sodipodi:arc-type="arc"
        sodipodi:open="true"
-       d="m 51.972695,39.835941 a 7.7985716,9.2204523 0 0 1 1.302555,4.955467" />
+       d="m 51.972695,39.835941 a 7.7985716,9.2204523 0 0 1 1.302555,4.955467"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#ffffff;stroke:#000000;stroke-width:0.256;stroke-dasharray:none;stroke-opacity:1"
        x="63.915245"
        y="27.65427"
-       id="text2635"><tspan
+       id="text2635"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan2633"
          style="stroke-width:0.256"
          x="63.915245"
          y="27.65427">β</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
-       x="62.805794"
-       y="34.670826"
-       id="text2859"><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.2"
-         x="62.805794"
-         y="34.670826"
-         id="tspan2861">r</tspan></text>
     <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1581)"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1401)"
        d="m 55.709315,30.920225 c 2.74642,-0.04944 2.74642,-0.0056 2.74642,-0.0056"
-       id="path2865" />
+       id="path2865"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1581-6)"
        d="m 31.989506,34.732481 c 2.74642,-0.04944 2.74642,-0.0056 2.74642,-0.0056"
-       id="path2865-5" />
+       id="path2865-5"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0922661;stroke-dasharray:none;stroke-opacity:1"
        id="rect4508"
@@ -1123,7 +1247,10 @@
        x="4.5484314"
        y="61.304817"
        transform="matrix(0.77462817,-0.63241695,0.65962345,0.75159624,0,0)"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <g
        id="g16109">
       <rect
@@ -1682,5 +1809,19 @@
          id="path4851"
          sodipodi:nodetypes="cc" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="53.204151"
+       y="24.384705"
+       id="text1345"
+       inkscape:export-filename="polarizacion_in.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1343"
+         x="53.204151"
+         y="24.384705"
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;">I</tspan></text>
   </g>
 </svg>
